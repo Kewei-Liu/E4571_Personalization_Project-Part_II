@@ -22,4 +22,4 @@
 *topicmodelling.py:* Trains LDA and computes topic distribution features  
 *webscrape.py:* Extracts summaries for books from Goodreads  
 *model_exploration.py:* Segments the users and evaluates perfoemance in each segment   
-
+*Report.ipynb:* Project report   
