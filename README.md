@@ -14,5 +14,12 @@
 
 #### Xiaohui Guo - UNI: xg2225
 
+# Files  
 
+*Hybrid.ipynb:* All the hybrid models  
+*content_based_model.ipynb:* Content based model  
+*featuresw2v.py:* Feature generation for content-based model   
+*topicmodelling.py:* Trains LDA and computes topic distribution features  
+*webscrape.py:* Extracts summaries for books from Goodreads  
+*model_exploration.py:* Segments the users and evaluates perfoemance in each segment   
 
